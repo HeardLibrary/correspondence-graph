@@ -1,4 +1,3 @@
-<h1> correspondence-graph</h1>
 <h2>A network analysis of Flannery O'Connor's Correspondence</h2>
 
 
